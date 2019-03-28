@@ -30,4 +30,5 @@ end
 
 def add_s(array)
   array do |x| x + "s"
+  end
 end
